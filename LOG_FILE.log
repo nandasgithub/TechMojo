@@ -1,0 +1,1 @@
+2021-03-21 23:10:04,322 root ERROR Validation validate   16 Not a Valid transaction for transaction id: T1236, err: '>=' not supported between instances of 'NoneType' and 'datetime.datetime'
